@@ -1,0 +1,48 @@
+.left{
+    text-align: right;
+}
+
+
+
+.image-size{
+    width: 500px;
+    height: 400px;
+    padding-right: 100px;
+    
+}
+.background{
+
+    background-color: antiquewhite;
+  background-repeat: no-repeat, repeat;
+}
+.font{
+    color: black;
+}
+
+.product{
+    width:100px;
+    height:100px;
+}
+.background2{
+    background-color: azure;
+}
+
+.img-size{
+    
+   width: 100px;
+   height: 100px;
+   
+
+}
+.size{
+    width:200px;
+    height: 200px;
+
+    text-align: right;
+}
+.image-k{
+    width: 500px;
+    height: 400px;
+    padding-right: 300px;
+    
+}
